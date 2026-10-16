@@ -2,7 +2,7 @@
 const SITE = {
   linkedin: "https://www.linkedin.com/in/ha%C3%AFkel-belhadj",
   github:   "https://github.com/HaikelBEL-HADJ",
-  cv:       "#", // TODO : colle ici le lien de ton CV DoYouBuzz
+  cv:       "https://www.doyoubuzz.com/haikel-bel-hadj", // lien DoYouBuzz ajouté
   email:    "haikel.belhadj133@gmail.com",
   // TODO : crée un formulaire sur https://formspree.io et colle ici son URL (https://formspree.io/f/xxxx)
   formEndpoint: ""
